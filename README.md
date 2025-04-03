@@ -1,9 +1,4 @@
 test_logs
 =====
 
-An OTP library
-
-Build
------
-
-    $ rebar3 compile
+please, see usage examples in the [test_logs_SUITE.erl](./test/test_logs_SUITE.erl) file.
